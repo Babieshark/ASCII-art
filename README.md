@@ -1,5 +1,3 @@
-# ASCII-art
-
 # ASCII Art Generator
 
 Convert your images into stunning ASCII art using this Python-based ASCII Art Generator. This project takes an image as input and generates ASCII art by mapping the intensity of each pixel to a character from a predefined set of characters. The result is a unique and visually appealing representation of the original image in text form.
@@ -23,4 +21,4 @@ Convert your images into stunning ASCII art using this Python-based ASCII Art Ge
 
 Original Image             |  Generated ASCII Art
 :-------------------------:|:-------------------------:
-![Original Image](example/original_image.jpg)  |  ![Generated ASCII Art](example/generated_ascii_art.jpg)
+![Original Image](/ascii-project/naruto.jpg)  |  ![Generated ASCII Art](/ascii-project/output.jpg)
