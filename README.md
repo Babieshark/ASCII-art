@@ -18,6 +18,7 @@ Convert your images into stunning ASCII art using this Python-based ASCII Art Ge
 5. The generated ASCII art will be saved as an image file.
 
 ## Example
+ ZOOOM IN TO SEEEE THE ART!!!!
 
 Original Image             |  Generated ASCII Art
 :-------------------------:|:-------------------------:
