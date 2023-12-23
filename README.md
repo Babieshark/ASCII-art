@@ -21,4 +21,4 @@ Convert your images into stunning ASCII art using this Python-based ASCII Art Ge
 
 Original Image             |  Generated ASCII Art
 :-------------------------:|:-------------------------:
-![Original Image](/ascii-project/naruto.jpg)  |  ![Generated ASCII Art](/ascii-project/output.jpg)
+![Original Image]([/ascii-project/naruto.jpg](https://github.com/Babieshark/ASCII-art/blob/main/asciiproject/naruto.jpg))  |  ![Generated ASCII Art]([/ascii-project/output.jpg](https://github.com/Babieshark/ASCII-art/blob/main/asciiproject/output.png)https://github.com/Babieshark/ASCII-art/blob/main/asciiproject/output.png)
